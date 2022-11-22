@@ -1,0 +1,15 @@
+E:\AlturaMatricula\bin\Debug\net6.0\AlturaMatricula.exe
+E:\AlturaMatricula\bin\Debug\net6.0\AlturaMatricula.deps.json
+E:\AlturaMatricula\bin\Debug\net6.0\AlturaMatricula.runtimeconfig.json
+E:\AlturaMatricula\bin\Debug\net6.0\AlturaMatricula.dll
+E:\AlturaMatricula\bin\Debug\net6.0\AlturaMatricula.pdb
+E:\AlturaMatricula\obj\Debug\net6.0\AlturaMatricula.csproj.AssemblyReference.cache
+E:\AlturaMatricula\obj\Debug\net6.0\AlturaMatricula.GeneratedMSBuildEditorConfig.editorconfig
+E:\AlturaMatricula\obj\Debug\net6.0\AlturaMatricula.AssemblyInfoInputs.cache
+E:\AlturaMatricula\obj\Debug\net6.0\AlturaMatricula.AssemblyInfo.cs
+E:\AlturaMatricula\obj\Debug\net6.0\AlturaMatricula.csproj.CoreCompileInputs.cache
+E:\AlturaMatricula\obj\Debug\net6.0\AlturaMatricula.dll
+E:\AlturaMatricula\obj\Debug\net6.0\refint\AlturaMatricula.dll
+E:\AlturaMatricula\obj\Debug\net6.0\AlturaMatricula.pdb
+E:\AlturaMatricula\obj\Debug\net6.0\AlturaMatricula.genruntimeconfig.cache
+E:\AlturaMatricula\obj\Debug\net6.0\ref\AlturaMatricula.dll
